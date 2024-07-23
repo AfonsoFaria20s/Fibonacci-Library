@@ -23,4 +23,6 @@ public class Fibonacci {
     public static List<Integer> generateFibonacciToNum(int num) {
         return coreFibonacci.generateFibonacciToNum(num);
     }
+
+    public static void main(String[] args) {}
 }

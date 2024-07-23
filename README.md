@@ -14,8 +14,6 @@ A Java 21 library for easy and efficient Fibonacci number calculations.
 - **Iterative and Recursive Approaches**
   - `getNthFibonacciIterative(int n)`: Get the nth Fibonacci number using an iterative approach.
   - `getNthFibonacciRecursive(int n)`: Get the nth Fibonacci number using a recursive approach.
-  - `getNthFibonacciMemoized(int n)`: Get the nth Fibonacci number using a memoized recursive approach.
-  - `getNthFibonacciMatrix(int n)`: Get the nth Fibonacci number using matrix exponentiation.
 
 ### Additional Features
 - **Mathematical Properties**
@@ -34,11 +32,6 @@ A Java 21 library for easy and efficient Fibonacci number calculations.
 - Comprehensive documentation with examples for each feature.
 - Tutorials and use-cases to demonstrate library usage.
 - Javadoc comments for all public methods and classes.
-
-### Advanced Features
-- **Multithreading Support**
-  - Multithreaded Fibonacci calculation for large values.
-  - Ensure thread safety in all methods.
 
 ### Error Handling and Validation
 - **Robust Error Handling**
