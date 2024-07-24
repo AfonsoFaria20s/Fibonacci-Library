@@ -1,4 +1,4 @@
-package faria.fibonacci;
+package org.faria.fibonacci;
 
 public class UtilityFibonacci {
 }

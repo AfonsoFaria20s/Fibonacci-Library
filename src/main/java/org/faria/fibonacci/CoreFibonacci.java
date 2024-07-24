@@ -1,4 +1,4 @@
-package faria.fibonacci;
+package org.faria.fibonacci;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package faria.fibonacci;
+package org.faria.fibonacci;
 import java.util.List;
 /*
     Class used for aggregation of all the
