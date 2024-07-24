@@ -2,6 +2,8 @@
 
 A Java 21 library for easy and efficient Fibonacci number calculations.
 
+``Note: This project is still under development and the library is still set as pre-release. If you decide to use this library while under development, be aware that errors may occur.``
+
 ## Features
 
 ### Core Features
